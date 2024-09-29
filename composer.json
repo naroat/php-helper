@@ -1,5 +1,8 @@
 {
     "name": "naroat/php-helper",
+    "description": "php helper",
+    "keywords": ["php", "helper", "util", "package", "kit"],
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Naroat\\PhpHelper\\": "src/"
