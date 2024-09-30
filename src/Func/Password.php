@@ -2,8 +2,6 @@
 
 namespace Naroat\PhpHelper\Func;
 
-use function rand_string;
-
 /**
  * 生成全局唯一标识
  */
