@@ -6,4 +6,5 @@ require_once "Network.php";
 require_once "Object.php";
 require_once "Password.php";
 require_once "String.php";
+require_once "Safety.php";
 require_once "Time.php";
